@@ -1,0 +1,3 @@
+https://nicegui.io/ for user interface
+UUIDv4: A UUID is a class that represents an immutable Universally Unique Identifier (UUID)
+Python (datetime) Library
